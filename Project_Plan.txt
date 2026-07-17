@@ -1,0 +1,11 @@
+Project Plan
+ 
+Project Name: Inventory Management System
+ 
+Objectives:
+1. Create and manage project repository
+2. Track inventory records
+3. Maintain project documentation
+4. Push updates to GitHub
+ 
+Status: In Progress
